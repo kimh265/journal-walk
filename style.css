@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh; 
+    background-image: linear-gradient(to bottom, #d2f8fb, white); 
+    text-align: center;
+
+}   
+
+a{
+    text-decoration:underline; 
+    color:rgb(255, 0, 0);
+    font-size:13pt;
+}
+
+
+h1
+{
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+
+    line-height: 5em;
+    font-size:80px;
+}
+
+h2{
+    color:rgb(121, 102, 110)
+}
+h2:hover{ 
+    color:hsl(225, 100%, 67%);
+
+}
